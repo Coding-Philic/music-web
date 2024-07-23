@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+img{
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+  
+
+}
+header{
+   display: flex;
+   -ms-flex-align: center;
+}
+
+h5{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
